@@ -1,5 +1,10 @@
 # Text-Based RPG Game in JavaScript
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## 🌟 Overview
 
 This is a simple browser-based text RPG built entirely with **vanilla JavaScript**. The player can explore locations, fight monsters, earn gold and experience points, upgrade weapons, and win the game by defeating a dragon.
